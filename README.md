@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sufiyan chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufiyan chaudhari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sufiyan-chaudhari-8a55502ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufiyan chaudhari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamsufiyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamsufiyan" height="30" width="40" /></a>
 </p>
 
