@@ -9,11 +9,13 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **full-stack applications using the MERN stack (MongoDB, Express.js, React, Node.js)**
+- 👯 I’m looking to collaborate on **- Full-stack applications using the MERN stack (MongoDB, Express.js, React, Node.js) - Projects involving GraphQL and building robust APIs - Frontend projects using React, Next.js, and Tailwind CSS**
 
 - 💬 Ask me about **react,node,express,next.js**
 
 - 📫 How to reach me **msufiyanhusen@gmail.com**
+
+- ⚡ Fun fact **I love exploring new technologies and continuously improving my skills. When I'm not coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +31,26 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsufiyan560&show_icons=true&locale=en" alt="iamsufiyan560" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsufiyan560&" alt="iamsufiyan560" /></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
