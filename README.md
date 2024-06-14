@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsufiyan560" alt="iamsufiyan560" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/iamsufiyan560/e-commerce.git)
+
 
 - 🌱 I’m currently learning **Next.js**
 
