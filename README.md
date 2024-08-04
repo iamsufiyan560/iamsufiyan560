@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamsufiyan560" target="blank"><img src="https://img.shields.io/twitter/follow/iamsufiyan560?logo=twitter&style=for-the-badge" alt="iamsufiyan560" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/iamsufiyan560/e-commerce.git)
 
 - 🌱 I’m currently learning **Next.js**
 
