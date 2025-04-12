@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsufiyan560&show_icons=true&locale=en" alt="iamsufiyan560" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iamsufiyan560&theme=monokai" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamsufiyan560&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
